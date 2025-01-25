@@ -3,7 +3,7 @@
 
 **How it works:**
 - 📔 You **write** your notes!
-- 🔓 You **set up an unique password**!
+- 🔓 You **set up a unique password**!
 - 🔐 You **lock the notes**!
 - 📑 You **unlock** and **read them**!
 - ✈️ And when you are done, **you close the window**!
